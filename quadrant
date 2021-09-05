@@ -1,0 +1,6 @@
+import java.util.*;
+class quadrantProblem{
+    public static void main (String [] args){
+        
+    }
+}
